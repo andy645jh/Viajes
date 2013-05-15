@@ -1,0 +1,29 @@
+body {
+     background:#66ccff url(../images/cielo.jpg) 20% 0 repeat-x;
+}
+
+div#nubesLejos{
+     position:absolute;
+     z-index:997;
+     background:transparent url(../images/nubesLejos.png) 40% 0 repeat;
+     margin:0;
+     padding:0;
+     width:100%;
+     height:100%;
+}
+
+div#nubesCerca{
+     position:absolute;
+     z-index:998;
+     background:transparent url(../images/nubesCerca.png) 150% 0 repeat;
+     margin:0;
+     padding:0;
+     width:100%;
+     height:100%;
+}
+
+section#seccion1 {
+    background:#808080 url(../img/slide2.jpg);
+    margin: 0;
+    padding: 0;
+}
