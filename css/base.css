@@ -33,3 +33,13 @@ section#seccion1 {
     /*width:100%;
     height:100%;*/
 }
+
+section#seccion2 {   
+    background-image: url(../img/slide3.jpg);
+    height: 600px;
+    width: 1024px;
+    margin: 0;
+    padding: 0;
+    /*width:100%;
+    height:100%;*/
+}
