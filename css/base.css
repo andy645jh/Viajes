@@ -1,5 +1,5 @@
 body {
-     background:#66ccff;
+     background:#60ccff;
      margin: 0;
      padding: 0;
 }
@@ -27,7 +27,7 @@ div#nubesCerca{
 section#seccion1 {   
     background-image: url(../img/slide2.jpg);
     height: 600px;
-    width: 1024px;
+    /*width: 1024px;*/
     margin: 0;
     padding: 0;
     /*width:100%;
@@ -37,9 +37,31 @@ section#seccion1 {
 section#seccion2 {   
     background-image: url(../img/slide3.jpg);
     height: 600px;
-    width: 1024px;
+   /* width: 1024px;*/
     margin: 0;
     padding: 0;
     /*width:100%;
     height:100%;*/
+}
+
+p{
+    font-family: 'Book Antiqua';
+    font-size: large;
+    color: #fff;   
+}
+
+#titulo1{
+    background:transparent url(../img/al-invest.jpg) 150% 0 repeat;
+    position: absolute;
+    z-index:997;
+    top: 200px;
+    left: 200px;
+}
+
+#titulo2{
+    background:transparent url(../img/al-invest.jpg) 100% 0 repeat;
+    position: absolute;
+    z-index:998;
+    top: 400px;
+    left: 400px;
 }
